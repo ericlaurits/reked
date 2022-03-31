@@ -1,4 +1,4 @@
-stackbitVersion: "~0.2.0"
+stackbitVersion: "~0.4.0"
 ssgName: jekyll
 buildCommand: "bundle install && bundle exec jekyll build" 
 staticDir: ""
