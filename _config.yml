@@ -1,7 +1,7 @@
 title: Seek The Joy
 logo: "images/profile.png" # You can add own logo image.
 description: teaching, teacher education, and why it matters
-baseurl: "" # The subpath of your site, e.g. /blog
+baseurl: "/ericlaurits.github.io/reked" # The subpath of your site, e.g. /blog
 url: "https://ericlaurits.github.io/reked/" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
